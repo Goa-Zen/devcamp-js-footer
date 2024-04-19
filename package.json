@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goa-Zen/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "goa-zen <goazengoazen.cr@gmail.com> (https://github.com/Goa-Zen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goa-Zen/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/Goa-Zen/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
